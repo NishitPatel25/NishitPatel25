@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Agentic AI systems**
 
-- 🌱 I’m currently learning **Deep Learning and PowerBI**
+- 🌱 I’m currently learning **Building Fully Autonomous Systems**
 
-- 👯 I’m looking to collaborate on **Advance Machine Learning Project**
+- 👯 I’m looking to collaborate on **Advance Autonomous Agents Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NishitPatel25](https://github.com/NishitPatel25)
 
