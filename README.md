@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitpatel25&label=Profile%20views&color=0e75b6&style=flat" alt="nishitpatel25" /> </p>
 
-- 🔭 I’m currently working on [Arrhythmia detection](https://github.com/NishitPatel25/arrhythmia-detection)
+- 🔭 I’m currently working on **Agentic AI systems**
 
 - 🌱 I’m currently learning **Deep Learning and PowerBI**
 
